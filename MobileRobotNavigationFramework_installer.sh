@@ -19,6 +19,9 @@ cd ../..
 #Git install
 sudo apt-get install git     #gitインストール
 
+#Ant install
+sudo apt-get install ant     #antインストール
+
 #YP-Spur install
 git clone https://openspur.org/repos/yp-spur.git     #yp-spur gitclone
 cd yp-spur     #yp-spurディレクトリへ移動
